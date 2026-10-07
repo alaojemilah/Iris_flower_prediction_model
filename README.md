@@ -3,7 +3,7 @@
 ## Problem Statement
 The goal of this project is to predict the species of an iris flower based on its physical measurements.
 
-This is a *classification problem* — the output belongs to one of three categories:
+This is a *classification problem*, the output belongs to one of three categories:
 - *0* = Setosa
 - *1* = Versicolor
 - *2* = Virginica
