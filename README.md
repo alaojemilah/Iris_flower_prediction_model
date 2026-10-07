@@ -50,5 +50,5 @@ Both *Random Forest* and *Logistic Regression* achieved the highest accuracy of 
 - Matplotlib
 
 ## Author
-Jemilah Alao | Data & Business Intelligence Analyst
+Jemilah Alao | Data Analyst
 [LinkedIn](https://www.linkedin.com/in/jemilah-alao-8a684528a)
